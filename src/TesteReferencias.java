@@ -4,7 +4,6 @@ public class TesteReferencias {
 
         Gerente g1 = new Gerente();
         g1.setNome("Marco");
-        g1.setCpf("23546675656");
         g1.setSalario(5000.0);
 
         Funcionario f1 = new Funcionario();
